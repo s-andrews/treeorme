@@ -1,0 +1,14 @@
+{
+    "Records": [
+        {
+            "keywords": "headshot",
+            "limit": 20,
+            "print_urls": true
+        },
+        {
+            "keywords": "christmas tree",
+            "limit": 20,
+            "print_urls": true
+        }
+    ]
+}
