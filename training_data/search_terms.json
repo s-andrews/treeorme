@@ -3,13 +3,15 @@
         {
             "keywords": "headshot",
             "folder":"treeorme/train/person/person-train-images",
-            "limit": 200,
+            "limit": 100,
+            "size": "medium",
             "print_urls": true
         },
         {
             "keywords": "christmas tree",
             "folder":"treeorme/train/tree/tree-train-images",
-            "limit": 200,
+            "limit": 100,
+            "size": "medium",
             "print_urls": true
         }
     ]
