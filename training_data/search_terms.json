@@ -2,12 +2,14 @@
     "Records": [
         {
             "keywords": "headshot",
-            "limit": 20,
+            "folder":"treeorme/train/person/person-train-images",
+            "limit": 200,
             "print_urls": true
         },
         {
             "keywords": "christmas tree",
-            "limit": 20,
+            "folder":"treeorme/train/tree/tree-train-images",
+            "limit": 200,
             "print_urls": true
         }
     ]
